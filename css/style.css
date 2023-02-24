@@ -1,0 +1,22 @@
+body{
+    margin: 2vh;
+    padding: 2vh;
+}
+
+h2{
+    color: rgb(31, 31, 176);
+    
+    
+}
+p{
+    color: black;
+    
+}
+
+.container{
+    width: 70%;
+}
+
+form{
+    font-size: 90%;
+}
